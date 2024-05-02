@@ -1,5 +1,5 @@
 # ML_algorithm_for_color_prediction
-
+## Client Project (Fernando Silveira Silva, Bestbronz, United States)
 Project Requirements:
 1: Understanding Color Mixing and LAB Space: Analyze the provided table of color mixes, where each mix is represented by percentages of white, yellow, red, and black. Understand how variations in these proportions affect the L*, a*, and b* values in the LAB color space.
 
